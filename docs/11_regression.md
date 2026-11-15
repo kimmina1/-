@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
   %% 주요 노출 및 결과
   Stress["스트레스 인지 여부 (노출)"]
